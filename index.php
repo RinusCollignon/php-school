@@ -2,13 +2,13 @@
 <html lang="nl">
   <head>
     <meta charset="utf-8">
-    <title>login</title>
+    <title>Login</title>
   </head>
   <body>
-    <h1>Login to go further</h1><br>
+    <h1>Login om verder te gaan</h1><br>
 
-    <p></p><br><br>
+    <p>als u nieuw bent moet een nieuwe account aan maken</p><br><br>
     <p><a href="login.php">Login</p><br><br>
-    <p><a href="register.php">Register a new account</p><br>
+    <p><a href="register.php">nieuwe account aan maken</p><br>
   </body>
 </html>
